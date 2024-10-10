@@ -10,7 +10,7 @@ unction criaCartao(categoria, pergunta, resposta) {
         <p>${O que é JavaScript?}</p>
     </div>
     <div class="cartao__conteudo__resposta">
-        <p>${   O JavaScript é uma linguagem de programação}</p>
+        <p>${O JavaScript é uma linguagem de programação}</p>
     </div>
     </div>
     `
